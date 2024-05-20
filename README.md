@@ -1,3 +1,1 @@
 # time_calculous_GoWebApp
-
-API written in Go to use the [time_calculous](https://github.com/Vicken-Ghoubiguian/time_calculous) library functions...
